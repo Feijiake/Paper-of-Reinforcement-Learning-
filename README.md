@@ -23,16 +23,12 @@ GY53-VJ48-DC15
 
 ## 📝 目录索引
 
-**第19届**
+### 第19届
 
-​	[Dreamwaq](https://github.com/Feijiake/Paper-of-Reinforcement-Learning-/blob/main/250109Dreamwaq.pdf) URL: https://raw.githubusercontent.com/Feijiake/Paper-of-Reinforcement-Learning-/main/250109Dreamwaq.pdf
-
-
-
-
-
-
-
-
+- **[DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit
+  Terrain Imagination via Deep Reinforcement Learning](https://github.com/Feijiake/Paper-of-Reinforcement-Learning-/blob/main/250109Dreamwaq.pdf)**  
+  URL: `https://raw.githubusercontent.com/Feijiake/Paper-of-Reinforcement-Learning-/main/250109Dreamwaq.pdf`
+- **[Proximal Policy Optimization Algorithms](https://github.com/Feijiake/Paper-of-Reinforcement-Learning-/blob/main/250109Dreamwaq.pdf)**  
+  URL: `https://raw.githubusercontent.com/Feijiake/Paper-of-Reinforcement-Learning-/main/250109Dreamwaq.pdf`
 
 
