@@ -29,6 +29,6 @@ GY53-VJ48-DC15
   Terrain Imagination via Deep Reinforcement Learning](https://github.com/Feijiake/Paper-of-Reinforcement-Learning-/blob/main/250109Dreamwaq.pdf)**  
   URL: `https://raw.githubusercontent.com/Feijiake/Paper-of-Reinforcement-Learning-/main/250109Dreamwaq.pdf`
 - **[Proximal Policy Optimization Algorithms](https://github.com/Feijiake/Paper-of-Reinforcement-Learning-/blob/main/250109Dreamwaq.pdf)**  
-  URL: `https://raw.githubusercontent.com/Feijiake/Paper-of-Reinforcement-Learning-/main/250109Dreamwaq.pdf`
+  URL: `https://raw.githubusercontent.com/Feijiake/Paper-of-Reinforcement-Learning-/main/250111PPO.pdf`
 
 
