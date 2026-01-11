@@ -15,14 +15,18 @@ https://www.themoonlight.io/zh/referral/?referralCode=GY53-VJ48-DC15
 ```
 GY53-VJ48-DC15
 ```
-
+**导入URL**
+```
+将索引后方的URL输入到MoonLight AI的上传论文地址框中
+```
 注意：若环境中安装有其他版本的文档阅读器可能会导致MoonLight AI插件无法使用
 
 ## 📝 目录索引
 
 **第19届**
 
-​	[Dreamwaq](https://github.com/Feijiake/Paper-of-Reinforcement-Learning-/blob/main/250109Dreamwaq.pdf)\
+​	[Dreamwaq](https://github.com/Feijiake/Paper-of-Reinforcement-Learning-/blob/main/250109Dreamwaq.pdf) URL: https://raw.githubusercontent.com/Feijiake/Paper-of-Reinforcement-Learning-/main/250109Dreamwaq.pdf
+
 
 
 
