@@ -30,5 +30,7 @@ GY53-VJ48-DC15
   URL: `https://raw.githubusercontent.com/Feijiake/Paper-of-Reinforcement-Learning-/main/250109Dreamwaq.pdf`
 - **[Proximal Policy Optimization Algorithms](https://github.com/Feijiake/Paper-of-Reinforcement-Learning-/blob/main/250109Dreamwaq.pdf)**  
   URL: `https://raw.githubusercontent.com/Feijiake/Paper-of-Reinforcement-Learning-/main/250111PPO.pdf`
-
+- **[Emergence of Locomotion Behaviours
+  in Rich Environments](https://github.com/Feijiake/Paper-of-Reinforcement-Learning-/blob/main/250109Dreamwaq.pdf)**  
+  URL: `https://raw.githubusercontent.com/Feijiake/Paper-of-Reinforcement-Learning-/main/250127PPO_Engneer.pdf`
 
